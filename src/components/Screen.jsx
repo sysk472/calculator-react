@@ -9,3 +9,5 @@ const Screen = ({ value }) => {
     </Textfit>
   )
 }
+
+export default Screen;
